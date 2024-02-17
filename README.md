@@ -1,3 +1,3 @@
 # Boxessentials
-## NOT RECOMENDED OR USE
+## NOT RECOMENDED FOR USE
 goofy plugin i made a year or sum ago
