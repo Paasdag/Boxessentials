@@ -1,0 +1,67 @@
+name: BoxEssentials
+version: '1.0'
+main: me.ezed.commandspart2.BoxEssentials
+api-version: '1.18'
+commands:
+  god:
+    permission: be.god
+    description: makes u invulnerable to players and mobs
+    usage: /<command>
+  feed:
+    permission: be.feed
+    description: restores ur hunger bar
+    usage: /<command>
+    aliases:
+      - food
+  rename:
+    permission: be.rename
+    description: renames the item ur holding
+    usage: /<command>
+  heal:
+    permission: be.heal
+    usage: /<command>
+    description: heal u or the other player
+  setspawn:
+    permission: be.setspawn
+    usage: /<command>
+    description: set the spawn to ur current location
+  spawn:
+    permission: be.spawn
+    usage: /<command>
+    description: teleports u to spawn
+  setlore:
+    permission: be.setlore
+    description: sets the lore of the item ur holding
+    usage: /<command>
+  clearlore:
+    permission: be.clearlore
+    usage: /<command>
+    description: removes the lore of the item
+  trash:
+    permission: be.trash
+    usage: </command>
+    description: trow away items u dont need
+  fly:
+    permission: be.fly
+    usage: </command>
+    description: makes the player fly
+  flyspeed:
+    permission: be.flyspeed
+    usage: </command>
+    description: makes the player fly faster
+  gmc:
+    permission: be.gamemode
+    usage: </commmand>
+    description: changes gamemode
+  gms:
+    permission: be.gamemode
+    usage: </commmand>
+    description: changes gamemode
+  gmsp:
+    permission: be.gamemode
+    usage: </commmand>
+    description: changes gamemode
+  gma:
+    permission: be.gamemode
+    usage: </commmand>
+    description: changes gamemode
